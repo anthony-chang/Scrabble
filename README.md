@@ -1,6 +1,10 @@
 # Scrabble
  Single player Scrabble game complete with a CPU player with multiple difficultues.
  Created for an ICS project in grade 11. 
+ 
+ ## Usage
+ Clone or download the repo, then run Scrabble.jar
+ 
  Developer guide found [here.](https://docs.google.com/document/d/1t2rW5CoKK5A7XOS7FrIgK37NX_cXJJmIM9Lxq-ZIHJ4/edit?usp=sharing)
 
 ## User Guide 
