@@ -1,6 +1,7 @@
 # Scrabble
  Single player Scrabble game complete with a CPU player with multiple difficultues.
  Created for an ICS project in grade 11. 
+ <img src = "images/sample_1.png" width = 250> <img src = "images/sample_2.png" width = 250> <img src = "images/sample_3.png" width = 250>
  
  ## Usage
  Clone or download the repo, then run Scrabble.jar
